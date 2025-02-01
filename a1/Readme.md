@@ -15,7 +15,7 @@ Replace <URL> with the actual website you want to test.
 ### Example:
 
 ```
-python3 WebTester.py www.uvic.ca
+python3 SmartClient.py www.uvic.ca
 ```
 
 If an incorrect URL format is provided, the script will exit with an error message.
