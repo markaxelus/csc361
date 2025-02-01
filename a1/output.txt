@@ -1,0 +1,4 @@
+website: www.youtube.com
+1. Supports http2: yes
+2. List of Cookies:
+3. Password-protected: no
